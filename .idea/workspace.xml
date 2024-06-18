@@ -5,17 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72fb38d2-009a-49ae-a38f-3e27ef53ea52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/java-programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Control Structures/Control Structures.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Control Structures/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control Structures/src/Repetition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Control Structures/src/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Control Structures/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Control Structures/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,6 +53,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Main.executor": "Run",
+    "Application.Repetition.executor": "Run",
+    "Application.Switch.executor": "Run",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -70,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718689553077</updated>
-      <workItem from="1718689554135" duration="2893000" />
+      <workItem from="1718689554135" duration="5445000" />
     </task>
     <servers />
   </component>
