@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72fb38d2-009a-49ae-a38f-3e27ef53ea52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Control Structures/src/Repetition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Control Structures/src/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/function.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/src/ArEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/src/MathematicOp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Control Structures/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Control Structures/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,21 +29,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SimaGolrokhDHBW"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SimaGolrokhDHBW&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/SimaGolrokh/java-programming.git",
-    "accountId": "33d9329a-e331-4aca-8293-666bff2600ad"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SimaGolrokh/java-programming.git&quot;,
+    &quot;accountId&quot;: &quot;33d9329a-e331-4aca-8293-666bff2600ad&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2i2XGsPwgAjDhC20CvQL5B4ge1p" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,15 +56,61 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.ArEx.executor": "Run",
+    "Application.Array.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MathematicOp.executor": "Run",
     "Application.Repetition.executor": "Run",
     "Application.Switch.executor": "Run",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "/Users/simagolrokhbahoush/Documents/GitHub/java-programming/Control Structures/src/Main.java"
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/simagolrokhbahoush/Documents/GitHub/java-programming/function/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.MathematicOp">
+    <configuration name="ArEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArEx" />
+      <module name="function" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array" />
+      <module name="function" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="function" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathematicOp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MathematicOp" />
+      <module name="function" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MathematicOp" />
+        <item itemvalue="Application.ArEx" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,7 +127,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718689553077</updated>
-      <workItem from="1718689554135" duration="5445000" />
+      <workItem from="1718689554135" duration="11770000" />
+      <workItem from="1718718251626" duration="3612000" />
     </task>
     <servers />
   </component>
