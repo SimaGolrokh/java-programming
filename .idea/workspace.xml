@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72fb38d2-009a-49ae-a38f-3e27ef53ea52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/linkdinlearning/src/Debugging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkdinlearning/src/Exercise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkdinlearning/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/linkdinlearning/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkdinlearning/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/linkdinlearning/src/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linkdinlearning/Debuging.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linkdinlearning/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,7 @@
     "Application.ArEx.executor": "Run",
     "Application.Array.executor": "Run",
     "Application.Debuging.executor": "Debug",
+    "Application.Ex1.executor": "Run",
     "Application.Exercise.executor": "Run",
     "Application.Main (1).executor": "Profiler#1",
     "Application.Main.executor": "Run",
@@ -76,7 +77,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Ex1">
     <configuration name="ArEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArEx" />
       <module name="function" />
@@ -84,15 +85,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise" />
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex1" />
       <module name="linkdinlearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise" />
       <module name="linkdinlearning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,8 +115,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex1" />
         <item itemvalue="Application.Exercise" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ArEx" />
         <item itemvalue="Application.Types" />
         <item itemvalue="Application.MathematicOp" />
@@ -141,7 +142,7 @@
       <workItem from="1718689554135" duration="11770000" />
       <workItem from="1718718251626" duration="4211000" />
       <workItem from="1719221124016" duration="314000" />
-      <workItem from="1719221453337" duration="10000000" />
+      <workItem from="1719221453337" duration="13641000" />
     </task>
     <servers />
   </component>
