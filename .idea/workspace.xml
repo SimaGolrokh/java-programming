@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72fb38d2-009a-49ae-a38f-3e27ef53ea52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/function/src/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/src/builtInFun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkdinlearning/src/function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/Classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/src/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classes/src/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function/src/MathematicOp.java" beforeDir="false" afterPath="$PROJECT_DIR$/function/src/MathematicalOp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linkdinlearning/Ex2.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
     "Application.ArEx.executor": "Run",
     "Application.Array.executor": "Run",
     "Application.Debuging.executor": "Debug",
-    "Application.Ex1.executor": "Debug",
+    "Application.Ex1.executor": "Run",
     "Application.Exercise.executor": "Run",
     "Application.Main (1).executor": "Profiler#1",
     "Application.Main.executor": "Run",
@@ -76,19 +76,15 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/simagolrokhbahoush/Documents/GitHub/java-programming/linkdinlearning/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/simagolrokhbahoush/Documents/GitHub/java-programming/classes/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.builtInFun">
-    <configuration name="ArEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArEx" />
-      <module name="function" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1" />
       <module name="linkdinlearning" />
@@ -99,6 +95,13 @@
     <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercise" />
       <module name="linkdinlearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Classes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.builtInFun" />
         <item itemvalue="Application.function" />
         <item itemvalue="Application.Ex1" />
         <item itemvalue="Application.Exercise" />
-        <item itemvalue="Application.ArEx" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +149,7 @@
       <workItem from="1718689554135" duration="11770000" />
       <workItem from="1718718251626" duration="4211000" />
       <workItem from="1719221124016" duration="314000" />
-      <workItem from="1719221453337" duration="18705000" />
+      <workItem from="1719221453337" duration="26256000" />
     </task>
     <servers />
   </component>
