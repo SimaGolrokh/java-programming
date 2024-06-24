@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72fb38d2-009a-49ae-a38f-3e27ef53ea52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/function/src/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/src/builtInFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkdinlearning/src/function.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkdinlearning/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/linkdinlearning/src/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linkdinlearning/Debuging.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/linkdinlearning/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/function/src/MathematicOp.java" beforeDir="false" afterPath="$PROJECT_DIR$/function/src/MathematicalOp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/linkdinlearning/Ex2.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +58,7 @@
     "Application.ArEx.executor": "Run",
     "Application.Array.executor": "Run",
     "Application.Debuging.executor": "Debug",
-    "Application.Ex1.executor": "Run",
+    "Application.Ex1.executor": "Debug",
     "Application.Exercise.executor": "Run",
     "Application.Main (1).executor": "Profiler#1",
     "Application.Main.executor": "Run",
@@ -64,6 +66,8 @@
     "Application.Repetition.executor": "Run",
     "Application.Switch.executor": "Run",
     "Application.Types.executor": "Run",
+    "Application.builtInFun.executor": "Run",
+    "Application.function.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -77,7 +81,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex1">
+  <component name="RunManager" selected="Application.builtInFun">
     <configuration name="ArEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArEx" />
       <module name="function" />
@@ -99,15 +103,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathematicOp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MathematicOp" />
+    <configuration name="builtInFun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="builtInFun" />
       <module name="function" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Types" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Types" />
+    <configuration name="function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="function" />
       <module name="linkdinlearning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.builtInFun" />
+        <item itemvalue="Application.function" />
         <item itemvalue="Application.Ex1" />
         <item itemvalue="Application.Exercise" />
         <item itemvalue="Application.ArEx" />
-        <item itemvalue="Application.Types" />
-        <item itemvalue="Application.MathematicOp" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +146,7 @@
       <workItem from="1718689554135" duration="11770000" />
       <workItem from="1718718251626" duration="4211000" />
       <workItem from="1719221124016" duration="314000" />
-      <workItem from="1719221453337" duration="13641000" />
+      <workItem from="1719221453337" duration="18705000" />
     </task>
     <servers />
   </component>
