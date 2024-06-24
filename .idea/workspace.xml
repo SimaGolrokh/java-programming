@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72fb38d2-009a-49ae-a38f-3e27ef53ea52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/function.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/src/ArEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/src/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/src/MathematicOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkdinlearning/linkdinlearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkdinlearning/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkdinlearning/src/Types.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -23,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -58,10 +56,13 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.ArEx.executor": "Run",
     "Application.Array.executor": "Run",
+    "Application.Main (1).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MathematicOp.executor": "Run",
     "Application.Repetition.executor": "Run",
     "Application.Switch.executor": "Run",
+    "Application.Types.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -69,11 +70,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/simagolrokhbahoush/Documents/GitHub/java-programming/function/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/simagolrokhbahoush/Documents/GitHub/java-programming/linkdinlearning/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MathematicOp">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="ArEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArEx" />
       <module name="function" />
@@ -88,9 +89,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="function" />
+      <module name="linkdinlearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,12 +103,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Types" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Types" />
+      <module name="linkdinlearning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Types" />
         <item itemvalue="Application.MathematicOp" />
         <item itemvalue="Application.ArEx" />
         <item itemvalue="Application.Array" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -128,12 +137,25 @@
       <option name="presentableId" value="Default" />
       <updated>1718689553077</updated>
       <workItem from="1718689554135" duration="11770000" />
-      <workItem from="1718718251626" duration="3612000" />
+      <workItem from="1718718251626" duration="4211000" />
+      <workItem from="1719221124016" duration="314000" />
+      <workItem from="1719221453337" duration="2830000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
