@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72fb38d2-009a-49ae-a38f-3e27ef53ea52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/linkdinlearning/src/ToString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/src/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/src/Ex1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +62,7 @@
     "Application.MathematicOp.executor": "Run",
     "Application.Repetition.executor": "Run",
     "Application.Switch.executor": "Run",
+    "Application.ToString.executor": "Run",
     "Application.Types.executor": "Run",
     "Application.builtInFun.executor": "Run",
     "Application.function.executor": "Run",
@@ -81,7 +82,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex1 (1)">
+  <component name="RunManager" selected="Application.ToString">
     <configuration name="Ex1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1" />
       <module name="Classes" />
@@ -89,16 +90,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex1" />
-      <module name="linkdinlearning" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Classes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Classes" />
+    <configuration name="ToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ToString" />
+      <module name="linkdinlearning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ToString" />
         <item itemvalue="Application.Ex1 (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.builtInFun" />
         <item itemvalue="Application.function" />
-        <item itemvalue="Application.Ex1" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +147,7 @@
       <workItem from="1718689554135" duration="11770000" />
       <workItem from="1718718251626" duration="4211000" />
       <workItem from="1719221124016" duration="314000" />
-      <workItem from="1719221453337" duration="30788000" />
+      <workItem from="1719221453337" duration="32028000" />
     </task>
     <servers />
   </component>
