@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72fb38d2-009a-49ae-a38f-3e27ef53ea52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Classes/Classes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/src/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classes/src/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/src/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/src/Ex1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +54,7 @@
     "Application.ArEx.executor": "Run",
     "Application.Array.executor": "Run",
     "Application.Debuging.executor": "Debug",
+    "Application.Ex1 (1).executor": "Run",
     "Application.Ex1.executor": "Run",
     "Application.Exercise.executor": "Run",
     "Application.Main (1).executor": "Profiler#1",
@@ -84,16 +81,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Ex1 (1)">
+    <configuration name="Ex1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1" />
-      <module name="linkdinlearning" />
+      <module name="Classes" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise" />
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex1" />
       <module name="linkdinlearning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex1 (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.builtInFun" />
         <item itemvalue="Application.function" />
         <item itemvalue="Application.Ex1" />
-        <item itemvalue="Application.Exercise" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +146,7 @@
       <workItem from="1718689554135" duration="11770000" />
       <workItem from="1718718251626" duration="4211000" />
       <workItem from="1719221124016" duration="314000" />
-      <workItem from="1719221453337" duration="26256000" />
+      <workItem from="1719221453337" duration="30788000" />
     </task>
     <servers />
   </component>
@@ -169,5 +166,20 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Classes/src/Ex1.java</url>
+          <line>31</line>
+          <properties class="Ex1" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
