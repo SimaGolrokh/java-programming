@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Classes/Classes.iml" filepath="$PROJECT_DIR$/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections Framework/Collections Framework.iml" filepath="$PROJECT_DIR$/Collections Framework/Collections Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Complex Datastructures/Complex Datastructures.iml" filepath="$PROJECT_DIR$/Complex Datastructures/Complex Datastructures.iml" />
       <module fileurl="file://$PROJECT_DIR$/Control Structures/Control Structures.iml" filepath="$PROJECT_DIR$/Control Structures/Control Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Complex Datastructures/binary tree/binary tree.iml" filepath="$PROJECT_DIR$/Complex Datastructures/binary tree/binary tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/function/function.iml" filepath="$PROJECT_DIR$/function/function.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-programming.iml" filepath="$PROJECT_DIR$/.idea/java-programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkdinlearning/linkdinlearning.iml" filepath="$PROJECT_DIR$/linkdinlearning/linkdinlearning.iml" />
