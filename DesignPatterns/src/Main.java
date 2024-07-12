@@ -8,6 +8,8 @@ public class Main {
 
         var mailService = new MailService();
         mailService.sendEmail();
+
+        public static void
     }
 
 }

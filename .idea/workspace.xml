@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72fb38d2-009a-49ae-a38f-3e27ef53ea52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/MailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/TaxCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/TaxCalculator20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/Textbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/UIControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Map/Map.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Map/src/Maps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory usage/Memory usage.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DesignPatterns/src/CheckBox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Textbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/Textbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/UIControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/UIControl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +167,8 @@
       <workItem from="1720425357281" duration="18000" />
       <workItem from="1720427776869" duration="13040000" />
       <workItem from="1720462100317" duration="21066000" />
-      <workItem from="1720591785195" duration="890000" />
+      <workItem from="1720591785195" duration="2124000" />
+      <workItem from="1720703639826" duration="6068000" />
     </task>
     <servers />
   </component>

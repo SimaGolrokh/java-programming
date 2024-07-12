@@ -1,3 +1,7 @@
-public class Textbox extend UIContorll {
+public class Textbox extends UIControl {
 
+    @Override
+    public void draw() {
+
+    }
 }
