@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms/Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Classes/Classes.iml" filepath="$PROJECT_DIR$/Classes/Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Collections Framework/Collections Framework.iml" filepath="$PROJECT_DIR$/Collections Framework/Collections Framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/Complex Datastructures/Complex Datastructures.iml" filepath="$PROJECT_DIR$/Complex Datastructures/Complex Datastructures.iml" />
       <module fileurl="file://$PROJECT_DIR$/Control Structures/Control Structures.iml" filepath="$PROJECT_DIR$/Control Structures/Control Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Types/Data Types.iml" filepath="$PROJECT_DIR$/Data Types/Data Types.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Complex Datastructures/Hash set/Hash set.iml" filepath="$PROJECT_DIR$/Complex Datastructures/Hash set/Hash set.iml" />
       <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
@@ -14,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/function/function.iml" filepath="$PROJECT_DIR$/function/function.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-programming.iml" filepath="$PROJECT_DIR$/.idea/java-programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkdinlearning/linkdinlearning.iml" filepath="$PROJECT_DIR$/linkdinlearning/linkdinlearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objects/objects.iml" filepath="$PROJECT_DIR$/objects/objects.iml" />
     </modules>
   </component>
 </project>
