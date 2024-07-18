@@ -5,19 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72fb38d2-009a-49ae-a38f-3e27ef53ea52" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms/Algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/src/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/src/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/src/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Types/Data Types.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Types/src/PrimitiveTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Types/src/Wrapperclasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/src/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encapsulation/src/TreeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/src/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/TaxCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/Textbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/Textbox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesignPatterns/src/UIControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns/src/UIControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objects/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/objects/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/objects/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/objects/src/Tree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +68,7 @@
     "Application.AppwithColl.executor": "Run",
     "Application.ArEx.executor": "Run",
     "Application.Array.executor": "Run",
+    "Application.BankAccount.executor": "Run",
     "Application.BubbleSort.executor": "Run",
     "Application.Debuging.executor": "Debug",
     "Application.Ex1 (1).executor": "Run",
@@ -96,7 +94,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/simagolrokhbahoush/Documents/GitHub/java-programming/DesignPatterns/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/simagolrokhbahoush/Documents/GitHub/java-programming/Encapsulation/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -104,17 +102,17 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BubbleSort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
-      <module name="Algorithms" />
+  <component name="RunManager" selected="Application.BankAccount">
+    <configuration name="BankAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankAccount" />
+      <module name="Encapsulation" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LotteryNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LotteryNum" />
-      <module name="Hash set" />
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
+      <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -142,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BankAccount" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Maps" />
         <item itemvalue="Application.PrimeNum" />
-        <item itemvalue="Application.LotteryNum" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +176,7 @@
       <workItem from="1720462100317" duration="21066000" />
       <workItem from="1720591785195" duration="2124000" />
       <workItem from="1720703639826" duration="7092000" />
-      <workItem from="1721285573429" duration="5358000" />
+      <workItem from="1721285573429" duration="12065000" />
     </task>
     <servers />
   </component>
